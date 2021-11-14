@@ -26,3 +26,5 @@ we are going to learn how Uber saves your time in reaching your destination.
 ---
 
 Every time someone books a ride from Uber's application, Uber saves their location with a timestamp. Uber has been collecting this data since they begin its operations. Uber uses this data to determine the optimal position of cabs.
+
+<img align="left" alt="Visual Studio Code" width="1080px" src="uber2.png" />
