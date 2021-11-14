@@ -45,3 +45,30 @@ As the name suggests, this type of learning algorithm has a supervisor or teache
 
 Unlike supervised learning, there are no supervisor or teacher present i.e. algorithms use unlabelled data to find features or patterns. Consider a newborn child who can’t read. We cannot give the same table that we gave to the previous child. But when this child will be asked to sort the fruits, he/she can sort on the basis of shape, color, or weight. One thing to notice is that at the end, he was able to sort the fruits in a basket but he/she still doesn’t know which basket contains which fruit.
 
+# #3 K Means
+
+---
+
+K Means is an Unsupervised clustering algorithm used to find clusters in unlabelled data. This algorithm is used to divide data into K clusters, where K is a variable that depends on the case (a problem that we are solving) and efficiency. This algorithm takes data as input and returns centroids of K clusters.
+
+# #3.1 Centroid Initialization
+
+---
+
+It marks the beginning of the algorithm, and the K number of centroids is randomly initialized. There are two ways they can be initialized.
+
+Assigning random K data points from the dataset as centroids.
+
+Assigning random K points (not from the dataset) as centroids.
+
+# #3.2 Clustering
+
+---
+
+In this step, the algorithm enters the loop and computes the distance between each data point and each centroid. Data points are assigned to cluster centroid which is closest. After this step, we have K clusters of data points.
+
+# #3.2 Updating centroids
+
+---
+
+In this step, centroids are calculated using data points of the cluster and control goes back to step 2. We can run this loop N number of times or we can make the algorithm exit when there is no significant change in centroids.
