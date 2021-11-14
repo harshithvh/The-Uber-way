@@ -16,3 +16,13 @@ If you might have ever booked an Uber cab, you must have noticed that the proces
 As it turns out, there’s a great deal of data being collected, produced, and visualized behind the scenes — all working to create a more efficient company and impact transportation as a whole.
 
 we are going to learn how Uber saves your time in reaching your destination.
+
+# How Uber determines Optimal Position of Cabs
+
+---
+
+# #1 Data Collection
+
+---
+
+Every time someone books a ride from Uber's application, Uber saves their location with a timestamp. Uber has been collecting this data since they begin its operations. Uber uses this data to determine the optimal position of cabs.
