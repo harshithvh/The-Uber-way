@@ -1,4 +1,4 @@
-'''# Program to demonstrate clustering and K-Means
+# Program to demonstrate clustering and K-Means
 import numpy as np
 import sklearn.cluster
 # sklearn to perform various statistical analysis
@@ -14,7 +14,7 @@ from sklearn.cluster import KMeans
 model = KMeans(n_clusters=3, init='random', max_iter=50)
 print(model.fit(data))
 print(model.cluster_centers_) # finding centroids
-'''
+
 # The Uber way
 import pandas as pd
 import matplotlib.pyplot as plt
