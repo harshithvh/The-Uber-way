@@ -39,15 +39,15 @@ We can also plot these coordinated in a map by importing folium module
 
 As the name suggests, this type of learning algorithm has a supervisor or teacher. Basically, a well labeled data is the supervisor or teacher, and the algorithm uses this data to learn patterns or features. Like in the fruit sorting problem, a child who can read was given a table of fruits and their names. He was later asked to sort the fruits in a basket. With the provided table, he was able to sort them and knows which basket contains which fruit.
 
+<img align="right" alt="Visual Studio Code" width="720px" src="uber5.png" />
+
 # #2.2 Unsupervised Learning
 
 ---
 
 Unlike supervised learning, there are no supervisor or teacher present i.e. algorithms use unlabelled data to find features or patterns. Consider a newborn child who can’t read. We cannot give the same table that we gave to the previous child. But when this child will be asked to sort the fruits, he/she can sort on the basis of shape, color, or weight. One thing to notice is that at the end, he was able to sort the fruits in a basket but he/she still doesn’t know which basket contains which fruit.
 
-<img align="left" alt="Visual Studio Code" width="410px" src="uber5.png" /><img align="right" alt="Visual Studio Code" width="410px" src="uber4.png" />
-
----
+<img align="right" alt="Visual Studio Code" width="720px" src="uber5.png" />
 
 # #3 K Means
 
