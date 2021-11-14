@@ -45,6 +45,9 @@ As the name suggests, this type of learning algorithm has a supervisor or teache
 
 Unlike supervised learning, there are no supervisor or teacher present i.e. algorithms use unlabelled data to find features or patterns. Consider a newborn child who can’t read. We cannot give the same table that we gave to the previous child. But when this child will be asked to sort the fruits, he/she can sort on the basis of shape, color, or weight. One thing to notice is that at the end, he was able to sort the fruits in a basket but he/she still doesn’t know which basket contains which fruit.
 
+<img align="left" alt="Visual Studio Code" width="1080px" src="uber5.png" />
+<img align="right" alt="Visual Studio Code" width="1080px" src="uber4.png" />
+
 # #3 K Means
 
 ---
