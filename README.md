@@ -47,6 +47,8 @@ Unlike supervised learning, there are no supervisor or teacher present i.e. algo
 
 <img align="left" alt="Visual Studio Code" width="410px" src="uber5.png" /><img align="right" alt="Visual Studio Code" width="410px" src="uber4.png" />
 
+---
+
 # #3 K Means
 
 ---
